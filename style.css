@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: lightgray;
+}
+
+.wrappedText {
+  word-wrap: break-word;
+}
+
+.saveText {
+  font-size: 7px;
+  word-wrap: break-word;
+}
+
+.noMargin {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.topMargin {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.bottomMargin {
+  margin-bottom: 20px;
+}
+
+.red {
+  color: red;
+}
