@@ -627,7 +627,7 @@ canvas.addEventListener('contextmenu', function(event) {
 })
 document.addEventListener("keydown", (event) => {
   if (event.code == "Space") {
-    rightClick(0)
+    rightClick(event)
   }
 })
 
